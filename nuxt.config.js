@@ -34,7 +34,7 @@ export default {
 
   postcss: {
     plugins: {
-      'postcss-preset-env': this.preset,
+      'postcss-preset-env': { stage: 2 },
       cssnano: { preset: 'default' } // disabled in dev mode
     },
     order: 'presetEnvAndCssnanoLast',
