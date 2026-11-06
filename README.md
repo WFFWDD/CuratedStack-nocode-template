@@ -42,7 +42,7 @@ Check out websites using the CuratedStack Nocode Template:
 ### The no-code way - Easy way
 
 1. Go to https://t3mpl.n4no.com/editor/#manifest=../templates/curated-stack/template.yaml
-2. Use the right panel to edit the content
+2. Use the right panel to edit the content 
 3. Press "Publish" then "Save website as .zip"
 4. The full website will be inside the zip, you can host it wherever you want
 
